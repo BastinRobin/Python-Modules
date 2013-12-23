@@ -8,7 +8,9 @@ phonelist = [
   ['Nelson, Eric',   '485-2689'],
   ['Prefect, Ford',  '987-6543'],
   ['Zigler, Mary',   '567-8901'],
-  ['Smith, Bob',     '689-1234']
+  ['Smith, Bob',     '689-1234'],
+  ['Bastin Robin', '898-1921'],
+  ['Bot', '878-9888']
 ]
 
 
