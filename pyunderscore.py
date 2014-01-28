@@ -16,6 +16,6 @@ class Py_score:
 		self.version = '0.0.1v'
 		self.author = 'Bastin Robin'
 
-
+		
 if __name__ == '__main__':
 	main()
